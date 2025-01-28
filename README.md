@@ -13,6 +13,8 @@ Unfortunately, the kernel sustained some damage due to an enemy ambush on the wa
 - Correct the keyboard port address to correct port address for the x86 architecture
 - Correct the inverted text input
 
+  
+## [grading guidelines](https://github.com/sabarixr/Rusk-os-solution/blob/main/guidelines.md)
 ## Expected output:
 
 ![output](https://github.com/BiscuitBobby/ruskos-problem-repo/blob/main/output.gif)
